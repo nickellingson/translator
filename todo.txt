@@ -1,0 +1,1 @@
+- serverside rendering, look at firebase function and turn off dangerous browser
